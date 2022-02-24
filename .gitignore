@@ -1,0 +1,6 @@
+ConsultaCnpjVB/bin
+ConsultaCnpjVB/obj
+*.user
+*.suo
+_ReSharper.*
+*.sln.cache
